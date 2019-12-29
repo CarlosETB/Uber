@@ -8,5 +8,5 @@ Clone da interface do Uber
 <!-- PROJECT LOGO -->
 
 <p align="center">
-    <img src="https://seeklogo.com/images/U/uber-logo-9B6033C292-seeklogo.com.png" alt="Logo">
+    <img height="200px" src="https://seeklogo.com/images/U/uber-logo-9B6033C292-seeklogo.com.png" alt="Logo">
 </p>
